@@ -1,5 +1,5 @@
 +++
-title = "Script Tests"
+title = "测试脚本"
 weight = 200
 sort_by = "weight"
 +++

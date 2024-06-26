@@ -1,5 +1,5 @@
-base_url = "https://angelscript.hazelight.se"
-title = "Unreal Engine Angelscript"
+base_url = "https://docs.angelscript-ue.g1sgame.com"
+title = "AngelScript虚幻引擎文档"
 compile_sass = true
 build_search_index = true
 

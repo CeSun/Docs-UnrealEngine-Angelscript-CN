@@ -1,5 +1,5 @@
 +++
-title = "Actors and Components"
+title = "Actors 和 Components"
 weight = 25
 sort_by = "weight"
 +++

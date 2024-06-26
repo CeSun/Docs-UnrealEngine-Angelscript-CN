@@ -1,5 +1,5 @@
 +++
-title = "Function Libraries"
+title = "函数库"
 weight = 30
 sort_by = "weight"
 +++

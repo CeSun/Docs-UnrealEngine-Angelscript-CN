@@ -1,5 +1,5 @@
 +++
-title = "License"
+title = "开源授权"
 weight = 20
 +++
 

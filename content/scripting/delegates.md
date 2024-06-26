@@ -1,5 +1,5 @@
 +++
-title = "Delegates and Events"
+title = "委托和事件"
 weight = 100
 sort_by = "weight"
 +++

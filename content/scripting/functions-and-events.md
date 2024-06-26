@@ -1,5 +1,5 @@
 +++
-title = "Functions and BlueprintEvents"
+title = "函数和事件"
 weight = 10
 sort_by = "weight"
 +++

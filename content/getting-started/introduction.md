@@ -1,5 +1,5 @@
 +++
-title = "Scripting Introduction"
+title = "脚本介绍"
 weight = 20
 +++
 

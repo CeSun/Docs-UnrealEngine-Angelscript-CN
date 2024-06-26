@@ -1,5 +1,5 @@
 +++
-title = "Automatic Bindings"
+title = "自动绑定"
 weight = 10
 +++
 

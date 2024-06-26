@@ -1,5 +1,5 @@
 +++
-title = "Formatted Strings"
+title = "格式化字符串"
 weight = 60
 sort_by = "weight"
 +++

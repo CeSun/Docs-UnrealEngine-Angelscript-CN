@@ -1,5 +1,5 @@
 +++
-title = "Properties and Accessors"
+title = "属性和访问器"
 weight = 20
 sort_by = "weight"
 +++

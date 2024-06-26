@@ -1,5 +1,5 @@
 +++
-title = "Mixin Methods"
+title = "扩展函数(Mixin)"
 weight = 100
 sort_by = "weight"
 +++

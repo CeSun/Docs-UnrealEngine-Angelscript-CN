@@ -1,5 +1,5 @@
 +++
-title = "Using Precompiled Scripts"
+title = "预编译脚本"
 weight = 100
 +++
 

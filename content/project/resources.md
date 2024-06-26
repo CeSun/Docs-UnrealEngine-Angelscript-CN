@@ -1,5 +1,5 @@
 +++
-title = "Resources and Links"
+title = "相关资源"
 weight = 15
 +++
 

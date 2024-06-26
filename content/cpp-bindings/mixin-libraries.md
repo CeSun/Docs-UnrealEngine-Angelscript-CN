@@ -1,5 +1,5 @@
 +++
-title = "Script Mixin Libraries"
+title = "扩展函数(Mixin)"
 weight = 10
 +++
 

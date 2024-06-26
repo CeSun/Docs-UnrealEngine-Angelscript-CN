@@ -1,5 +1,5 @@
 +++
-title = "Editor-Only Script"
+title = "仅编辑器脚本"
 weight = 110
 sort_by = "weight"
 +++
